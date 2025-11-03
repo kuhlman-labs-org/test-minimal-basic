@@ -1,2 +1,3 @@
-# test-minimal-basic
-Basic repository with README only
+# Test Repository
+
+This is a basic test repository.
